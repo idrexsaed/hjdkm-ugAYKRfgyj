@@ -1,0 +1,5 @@
+{
+  "name": "Geo Map Analyzer",
+  "description": "An interactive tool that uses an image of a world map to provide detailed geographical analysis of various features like mountain ranges, deserts, and forests, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
